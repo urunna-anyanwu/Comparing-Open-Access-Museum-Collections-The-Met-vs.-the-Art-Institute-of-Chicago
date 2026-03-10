@@ -13,9 +13,9 @@
 **Metropolitan Museum of Art:** https://github.com/metmuseum/openaccess 
 
 # File Details
-**[INSERT EDA FILE HERE]:** Python file containing EDA report.
-**[INSERT SQL FILE HERE]:** SQL file containing queries along with documentation that were relevant to EDA.
+**FinalArtMuseumEDA:** Python file containing EDA report.
+**SQL_Documentation:** SQL file containing queries along with documentation that were relevant to EDA.
 
 
 # GenAI Usage
-**GenAI was primarily used for troubleshooting complex portions of code in the python and SQL files. For example, Urunna queried AI for aid in consolidating the datasets, and Rukan queried AI for aid in running the Logistic Regressions. Otherwise, the project was largely completed via use of lecture materials, the Internet (e.g StackOverflow), and each other.**
+**GenAI was primarily used for troubleshooting complex portions of code in the python and SQL files. For example, Urunna queried AI for aid in consolidating the datasets, and Rukan (@rukanp) queried AI for aid in running the Logistic Regressions. Otherwise, the project was largely completed via use of lecture materials, the Internet (e.g StackOverflow), and each other.**
